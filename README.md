@@ -1,2 +1,0 @@
-# WebGIS
-WebGIS course project
